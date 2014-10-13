@@ -1,5 +1,12 @@
 <?php namespace Acme\Shortner;
 
-class LittleServiceProvider {
+use Illuminate\Support\ServiceProvider;
 
+
+class LittleServiceProvider extends ServiceProvider {
+
+    public function register()
+    {
+        $this->app->bind('little', 'Acme\Shortner\LittleService');
+    }
 } 

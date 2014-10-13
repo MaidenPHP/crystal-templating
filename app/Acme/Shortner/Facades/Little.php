@@ -1,4 +1,4 @@
-<?php namespace Acme\Facades;
+<?php namespace Acme\Shortner\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

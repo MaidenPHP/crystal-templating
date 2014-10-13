@@ -1,4 +1,4 @@
-<?php namespace Acme\Shortner\Exceptions;
+<?php namespace Acme\Exceptions;
 
 
 class NonExistentHashException extends \Exception {

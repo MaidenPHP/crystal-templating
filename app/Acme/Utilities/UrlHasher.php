@@ -2,4 +2,9 @@
 
 class UrlHasher {
 
+    public function make($url)
+    {
+        return \Str::random(5);
+    }
+
 } 
