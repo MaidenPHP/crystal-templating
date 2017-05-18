@@ -1,0 +1,7 @@
+https://www.linkedin.com/learning/php-with-mysql-essential-training/output-buffering
+http://www.w3schools.com/php/func_array_extract.asp
+http://php.net/manual/en/function.eval.php
+http://whiteboxcomputing.com/php/template/
+https://www.sitepoint.com/php-streaming-output-buffering-explained/
+http://www.devshed.com/c/a/PHP/Output-Buffering-With-PHP/
+http://stackoverflow.com/questions/19934737/using-output-buffering-as-a-template-engine
